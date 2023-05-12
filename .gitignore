@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+_pycache_
+*.pyc
+*.pyc
+*.pyc
+data_by_student/
+data_raw/
+data-processing/
+.DS_Store
+.pyc
+data_by_student
+data_raw
+processed_raw.csv
